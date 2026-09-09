@@ -37,7 +37,7 @@ To build a secure, scalable client-server application that:
 ## 🖼 Screenshot
 
 <!-- Add a screenshot or GIF of the storefront here -->
-`[screenshot placeholder — add a homepage or checkout-flow screenshot]`
+<img width="1919" height="870" alt="Screenshot 2025-12-20 130419" src="https://github.com/user-attachments/assets/bf485880-d9a8-40c6-92a9-f8b1e28bb765" />
 
 ## 🏗 System Architecture
 
