@@ -31,5 +31,9 @@ app.get("/", (req, res) => {
   res.status(200).send("E-commerce Backend is running");
 });
 
+app.get("/favicon.ico", (req, res) => {
+  res.status(204).end();
+});
+
 // ❌ DO NOT CALL app.listen() in serverless
 export default app;
